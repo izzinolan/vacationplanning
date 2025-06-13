@@ -56,8 +56,8 @@ meal_plan = {
 # -----------------------
 # UI Layout
 # -----------------------
-st.set_page_config(page_title="St. Michael's College Reunion 2025", layout="wide")
-st.title("🏝️ Vacation Planner: June 21 – 27, 2025")
+st.set_page_config(page_title="full", layout="wide")
+st.title("St. Michael's College Reunion 2025: June 21 – 27, 2025")
 
 tab1, tab2 = st.tabs(["📋 Activities & Arrivals", "🍽️ Meal Plan"])
 
