@@ -28,7 +28,7 @@ guest_df["departure"] = pd.to_datetime(guest_df["departure"])
 # Sample Activities
 # -----------------------
 activity_data = [
-    {"date": "2025-06-21", "activity": "Welcome BBQ 🍔"},
+    {"date": "2025-06-21", "activity": "Welcome BBQ HELLO🍔"},
     {"date": "2025-06-22", "activity": "Beach Day 🏖️"},
     {"date": "2025-06-23", "activity": "Kayaking 🚣‍♀️"},
     {"date": "2025-06-24", "activity": "Hiking 🥾"},
